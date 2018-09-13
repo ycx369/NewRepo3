@@ -1,0 +1,29 @@
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.csprojResolveAssemblyReference.cache
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.ResolveComReference.cache
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.ResolveComReference.cache
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.csprojResolveAssemblyReference.cache
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.ResolveComReference.cache
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.ResolveComReference.cache
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.csprojResolveAssemblyReference.cache
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.ResolveComReference.cache
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\ClassLibrary3\obj\Debug\ClassLibrary3.csprojResolveAssemblyReference.cache

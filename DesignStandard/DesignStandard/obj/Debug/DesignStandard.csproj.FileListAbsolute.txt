@@ -1,0 +1,173 @@
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe.config
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\bin\Debug\DesignStandard.pdb
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\bin\Debug\Interop.TeeChart.dll
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\bin\Debug\AxInterop.TeeChart.dll
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\Interop.TeeChart.dll
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\AxInterop.TeeChart.dll
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.ResolveComReference.cache
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.CublicType.resources
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.designfiles.resources
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.PlantCatalogue.resources
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Login.resources
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Properties.Resources.resources
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.setPath.resources
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.GenerateResource.Cache
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.exe
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.pdb
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csprojResolveAssemblyReference.cache
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.process1.resources
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\DesignStandard\obj\Debug\DesignStandard.routing1.resources
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe.config
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\bin\Debug\DesignStandard.pdb
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\bin\Debug\Interop.TeeChart.dll
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\bin\Debug\AxInterop.TeeChart.dll
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csprojResolveAssemblyReference.cache
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\Interop.TeeChart.dll
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\AxInterop.TeeChart.dll
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.ResolveComReference.cache
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.CublicType.resources
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.designfiles.resources
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.PlantCatalogue.resources
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Login.resources
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.process1.resources
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Properties.Resources.resources
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.routing1.resources
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.setPath.resources
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.GenerateResource.Cache
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.exe
+C:\work\Programme\Standard system\DesignStandard\DesignStandard\obj\Debug\DesignStandard.pdb
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csprojResolveAssemblyReference.cache
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\Interop.TeeChart.dll
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\AxInterop.TeeChart.dll
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.ResolveComReference.cache
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.CublicType.resources
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.designfiles.resources
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.PlantCatalogue.resources
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Login.resources
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.process1.resources
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Properties.Resources.resources
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.routing1.resources
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.setPath.resources
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.GenerateResource.Cache
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.exe
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.pdb
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe.config
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\DesignStandard.pdb
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\Interop.TeeChart.dll
+C:\work\Programme\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\AxInterop.TeeChart.dll
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe.config
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\DesignStandard.pdb
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\Interop.TeeChart.dll
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\bin\Debug\AxInterop.TeeChart.dll
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csprojResolveAssemblyReference.cache
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\Interop.TeeChart.dll
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\AxInterop.TeeChart.dll
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.ResolveComReference.cache
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.CublicType.resources
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.designfiles.resources
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.PlantCatalogue.resources
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Login.resources
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.process1.resources
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Properties.Resources.resources
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.routing1.resources
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.setPath.resources
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.GenerateResource.Cache
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.exe
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.pdb
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.OkkenBOM.resources
+C:\work\Programme\Standard System all\Standard system - 副本 (2)\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Routing.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe.config
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\bin\Debug\DesignStandard.pdb
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csprojResolveAssemblyReference.cache
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\Interop.TeeChart.dll
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.ResolveComReference.cache
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.CublicType.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.designfiles.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.OkkenBOM.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.PlantCatalogue.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Login.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.process1.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Properties.Resources.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Routing.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.routing1.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.setPath.resources
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.GenerateResource.Cache
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.exe
+C:\work\Programme\Standard System all\Standard system - 0508\DesignStandard\DesignStandard\obj\Debug\DesignStandard.pdb
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe.config
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\bin\Debug\DesignStandard.pdb
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csprojResolveAssemblyReference.cache
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\Interop.TeeChart.dll
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.ResolveComReference.cache
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.CublicType.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.designfiles.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.OkkenBOM.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.PlantCatalogue.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Login.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.process1.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Properties.Resources.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Routing.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.routing1.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.setPath.resources
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.GenerateResource.Cache
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.exe
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.pdb
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\bin\Debug\Interop.WMPLib.dll
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\bin\Debug\AxInterop.WMPLib.dll
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\Interop.WMPLib.dll
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\AxInterop.WMPLib.dll
+C:\work\Programme\Standard System all\Standard system - 0508 - 副本\DesignStandard\DesignStandard\obj\Debug\DesignStandard.KeyProcess.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csprojResolveAssemblyReference.cache
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\Interop.MediaPlayer.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\Interop.TeeChart.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\Interop.WMPLib.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\AxInterop.Microsoft.Office.Interop.VisOcx.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\AxInterop.WMPLib.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.ResolveComReference.cache
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.CublicType.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.designfiles.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.FlowChart.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.KeyProcess.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.OkkenBOM.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.PlantCatalogue.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Login.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.process1.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Properties.Resources.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.Routing.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.routing1.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.setPath.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.csproj.GenerateResource.Cache
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe.config
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\bin\Debug\DesignStandard.exe
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\bin\Debug\DesignStandard.pdb
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\bin\Debug\ClassLibrary3.pdb
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\bin\Debug\Interop.WMPLib.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\bin\Debug\AxInterop.Microsoft.Office.Interop.VisOcx.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\bin\Debug\AxInterop.WMPLib.dll
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.exe
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.pdb
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.testt.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.ProcessVideoSet.resources
+C:\work\Programme\Standard System all\Standard system - 0525\DesignStandard\DesignStandard\obj\Debug\DesignStandard.name.resources

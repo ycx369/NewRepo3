@@ -1,0 +1,10 @@
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\bin\Debug\DesignStandard.exe
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\bin\Debug\DesignStandard.pdb
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\bin\Debug\DesignStandard.exe.config
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\obj\Debug\ClassLibrary2.Form1.resources
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.GenerateResource.Cache
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\sesa236717\documents\visual studio 2017\Projects\DesignStandard\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
